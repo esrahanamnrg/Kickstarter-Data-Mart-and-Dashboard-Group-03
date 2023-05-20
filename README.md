@@ -4,4 +4,11 @@ Kickstarter adalah sebuah platform crowdfunding yang digunakan untuk membantu ri
 ## Latar Belakang
 Setiap tahun, $17,2 miliar dihasilkan di Amerika Utara melalui kampanye crowdfunding. Adapun rata-rata kampanye crowdfunding yang berhasil adalah 22,4% dan rata-rata jumlah pendukung proyek crowdfunding adalah 47. Fakta ini menimbulkan pertanyaan penting, yaitu dapatkah pemilik proyek mengetahui apa saja karakteristik utama suatu kampanye proyek yang berhasil di platform crowdfunding. Dengan adanya Business intelligence dapat membantu menganalisis data-data  yang telah diperoleh untuk pengambilan keputusan dan mampu meningkatkan kinerja platform, sehingga dapat terus memberikan nilai tambah bagi para pengguna. 
 
-##
+## Ruang Lingkup
+![image](https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/assets/70991904/52238f87-5614-4b23-85a0-7fa9c37b5423)
+
+## Peertanyaan Analisis
+- Berapa kisaran ideal dan optimal dari tujuan pendanaan untuk setiap kategori proyek?
+- project apa saja yang berhasil mencapai goals lebih dari 50000 di tahun  2022?
+- Berapa banyak negara yang projectnya berhasil (memiliki state successful) mengumpulkan dana di tahun 2022
+
