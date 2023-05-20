@@ -15,18 +15,20 @@
 [Putri Esrahana Manurung (12S20050)](https://github.com/esrahanamnrg)<br> 
 
 ## 📝 Data Mart-based Dashboard for Kickstarter
-Kickstarter is a crowdfunding platform used to help thousands of projects and creators start and grow their businesses. With the advancement of technology, an increasing number of projects are emerging on crowdfunding platforms. Therefore, business intelligence plays a crucial role in managing and utilizing the data obtained from thousands of campaigns and fundraising activities that occur every day. Business intelligence also helps analyze the acquired data for decision-making and improves the platform's performance, thereby continuously adding value to its users.
+<p align="justify"> Kickstarter is a crowdfunding platform used to help thousands of projects and creators start and grow their businesses. With the advancement of technology, an increasing number of projects are emerging on crowdfunding platforms. Therefore, business intelligence plays a crucial role in managing and utilizing the data obtained from thousands of campaigns and fundraising activities that occur every day. Business intelligence also helps analyze the acquired data for decision-making and improves the platform's performance, thereby continuously adding value to its users.<p align="justify">
 
 ## 🖋 Background
-Each year, $17.2 billion is generated in North America through crowdfunding campaigns. The average success rate of crowdfunding campaigns is 22.4%, with an average of 47 project supporters. This fact raises an important question: can project owners identify the key characteristics of successful crowdfunding campaigns on the platform? Business intelligence can help analyze the acquired data for decision-making and improve the platform's performance, thereby continuously adding value to its users. In addressing this project, the implementation of a data mart is proposed as one of the solutions for solving the Kickstarter case study. This is because the Kickstarter data set consists of a large amount of historical data. This data cannot be directly accessed from the Kickstarter system database but requires scraping from the platform. Scraping is performed monthly and stored in a flat file. In other words, the data source is stored in a different storage location. However, integrated data can streamline the data management process, making it easier and faster to access and analyze the data. To address this issue, the author proposes a Data Warehouse and Business Intelligence System as it provides a stable and centralized repository for a large amount of historical data.
+<p align="justify">Each year, $17.2 billion is generated in North America through crowdfunding campaigns. The average success rate of crowdfunding campaigns is 22.4%, with an average of 47 project supporters. This fact raises an important question: can project owners identify the key characteristics of successful crowdfunding campaigns on the platform? Business intelligence can help analyze the acquired data for decision-making and improve the platform's performance, thereby continuously adding value to its users. In addressing this project, the implementation of a data mart is proposed as one of the solutions for solving the Kickstarter case study. This is because the Kickstarter data set consists of a large amount of historical data. This data cannot be directly accessed from the Kickstarter system database but requires scraping from the platform. Scraping is performed monthly and stored in a flat file. In other words, the data source is stored in a different storage location. However, integrated data can streamline the data management process, making it easier and faster to access and analyze the data. To address this issue, the author proposes a Data Warehouse and Business Intelligence System as it provides a stable and centralized repository for a large amount of historical data. <p align="justify">
 
 ## 🔣 Scope
 
+  
 | Component           | Tools                                                              |
 | ----------------- | ------------------------------------------------------------------ |
 | Data Mart | <a href="https://www.json.org/">JSON</a>|
 | Extract, Transform, Load | Pentaho| Pentaho Data INtegration |
-| Bussines Intelligence Application | <a href="https://www.tableau.com/">Tableau</a>|
+| Bussines Intelligence Application | <a href="https://www.tableau.com/">Tableau</a>| 
+
 
 
 ## 📋 Analysis Questions
