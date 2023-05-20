@@ -9,7 +9,7 @@ Setiap tahun, $17,2 miliar dihasilkan di Amerika Utara melalui kampanye crowdfun
 ![image](https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/assets/70991904/9f8642aa-caf8-4b35-a32c-928b653ad1bf)
 
 
-## Peertanyaan Analisis
+## Pertanyaan Analisis
 - Berapa kisaran ideal dan optimal dari tujuan pendanaan untuk setiap kategori proyek?
 - project apa saja yang berhasil mencapai goals lebih dari 50000 di tahun  2022?
 - Berapa banyak negara yang projectnya berhasil (memiliki state successful) mengumpulkan dana di tahun 2022
