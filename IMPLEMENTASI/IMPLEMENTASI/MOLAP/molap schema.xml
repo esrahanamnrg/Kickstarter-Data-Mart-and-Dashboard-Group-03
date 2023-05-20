@@ -1,0 +1,48 @@
+<Schema name="New Schema1">
+  <Dimension type="StandardDimension" visible="true" name="Date">
+    <Hierarchy name="Dim_Date" visible="true" hasAll="true" allMemberName="SemuaDate">
+      <Table name="dim_date" schema="" alias="">
+      </Table>
+      <Level name="Date" visible="true" column="date_dim_id" nameColumn="date" ordinalColumn="date_dim_id" type="Integer" uniqueMembers="false" levelType="Regular">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Dimension type="StandardDimension" visible="true" name="State">
+    <Hierarchy name="Dim_State" visible="true" hasAll="true" allMemberName="SemuaState" primaryKey="state_dim_id">
+      <Table name="dim_state" schema="" alias="">
+      </Table>
+      <Level name="State" visible="true" column="state_dim_id" nameColumn="state" ordinalColumn="state_dim_id" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Dimension type="StandardDimension" visible="true" name="Project">
+    <Hierarchy name="Dim_Project" visible="true" hasAll="true" primaryKey="project_id">
+      <Table name="dim_project" schema="" alias="">
+      </Table>
+      <Level name="Project" visible="true" column="project_id" nameColumn="project_name" ordinalColumn="project_id" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Dimension type="StandardDimension" visible="true" name="Location">
+    <Hierarchy name="Dim_Location" visible="true" hasAll="true" allMemberName="SemuaLocation" primaryKey="location_id">
+      <Table name="dim_location" schema="" alias="">
+      </Table>
+      <Level name="Location" visible="true" column="location_id" nameColumn="location_name" ordinalColumn="location_id" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+      </Level>
+    </Hierarchy>
+  </Dimension>
+  <Cube name="Kickstarter" visible="true" cache="true" enabled="true">
+    <Table name="fact-campaign" schema="" alias="">
+    </Table>
+    <DimensionUsage source="Date" name="Date" visible="true" foreignKey="date_dim_id">
+    </DimensionUsage>
+    <DimensionUsage source="State" name="State" visible="true" foreignKey="state_dim_id">
+    </DimensionUsage>
+    <DimensionUsage source="Location" name="Location" visible="true" foreignKey="dim_location_id">
+    </DimensionUsage>
+    <DimensionUsage source="Project" name="Project" visible="true" foreignKey="project_dim_id">
+    </DimensionUsage>
+    <Measure name="Unit Project" column="project_name" datatype="String" formatString="####" aggregator="distinct count" visible="true">
+    </Measure>
+  </Cube>
+</Schema>
