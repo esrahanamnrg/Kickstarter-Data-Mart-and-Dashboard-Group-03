@@ -1,13 +1,17 @@
-# 🔍 GROUP 03  <a name="about-project"></a>
+# 💎 GROUP 03  <a name="about-project"></a>
 
-## 👥 Contributors 
+## 👋 Contributors 
+<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
 
-💡[Yoga Sihombing (12S20002)](https://github.com/yoga200129)<br> 💡
-[Niver Titi Sibuea (12S20015)](https://github.com/Nivertitisibuea15)<br> 💡
-[Yehezchel Abed Rafles Sibuea (12S20029)](https://github.com/12S20029)<br> 💡
-[Daniel Paskah Totti Limbong (12S20034)](https://github.com/DanielLimbong)<br> 💡
-[Arni Febryarti Sitorus (12S20038)](https://github.com/arniisitorus)<br> 💡
-[Mastawila Febryanti Simanjuntak (12S20042)](https://github.com/mastawilafs)<br> 💡
+
+[Yoga Sihombing (12S20002)](https://github.com/yoga200129)<br> 
+[Niver Titi Sibuea (12S20015)](https://github.com/Nivertitisibuea15)<br> 
+[Yehezchel Abed Rafles Sibuea (12S20029)](https://github.com/12S20029)<br> 
+[Daniel Paskah Totti Limbong (12S20034)](https://github.com/DanielLimbong)<br> 
+[Arni Febryarti Sitorus (12S20038)](https://github.com/arniisitorus)<br> 
+[Mastawila Febryanti Simanjuntak (12S20042)](https://github.com/mastawilafs)<br> 
 [Putri Esrahana Manurung (12S20050)](https://github.com/esrahanamnrg)<br> 
 
 ## 📝 Data Mart-based Dashboard for Kickstarter
