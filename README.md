@@ -22,7 +22,7 @@
 
 ## 🖥️ Dashboard  
  
- <img align="center" src="https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/blob/main/IMPLEMENTASI/IMPLEMENTASI/DASHBOARD/Dashboard.jpg">
+ <img src="https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/blob/main/IMPLEMENTASI/IMPLEMENTASI/DASHBOARD/Dashboard.jpg" width="900" align="center">
   
 ## 🔣 Scope
 
