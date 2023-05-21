@@ -25,7 +25,7 @@
  <img src="https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/blob/main/IMPLEMENTASI/IMPLEMENTASI/DASHBOARD/Dashboard.jpg" width="900" align="center">
   
 ## 🔣 Scope
-
+<p align="justify">
   
 | Component           | Tools                                                              |
 | ----------------- | ------------------------------------------------------------------ |
@@ -33,7 +33,7 @@
 | Extract, Transform, Load | Pentaho| Pentaho Data INtegration |
 | Bussines Intelligence Application | <a href="https://www.tableau.com/">Tableau</a>| 
 
-
+<p align="justify">
 
 ## 📋 Analysis Questions
 1. What is the ideal and optimal range of funding goals for each project category?
@@ -48,4 +48,6 @@ The objectives of this project implementation are as follows:
 
 ## 📖 Full Proposal
 Please download our full proposal here:<br>
-[Full Proposal](https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/blob/main/laporan-proyek-dwbi-g3.pdf)
+[Full Proposal](https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/raw/main/laporan-proyek-dwbi-g3.pdf)
+
+
