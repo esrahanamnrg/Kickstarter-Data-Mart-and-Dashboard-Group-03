@@ -1,4 +1,4 @@
-# 💎 GROUP 03  <a name="about-project"></a>
+# 💎 GROUP 03 💎  <a name="about-project"></a>
 
 ## 👋 Contributors 
 <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
@@ -20,6 +20,12 @@
 ## 🖋 Background
 <p align="justify">Each year, $17.2 billion is generated in North America through crowdfunding campaigns. The average success rate of crowdfunding campaigns is 22.4%, with an average of 47 project supporters. This fact raises an important question: can project owners identify the key characteristics of successful crowdfunding campaigns on the platform? Business intelligence can help analyze the acquired data for decision-making and improve the platform's performance, thereby continuously adding value to its users. In addressing this project, the implementation of a data mart is proposed as one of the solutions for solving the Kickstarter case study. This is because the Kickstarter data set consists of a large amount of historical data. This data cannot be directly accessed from the Kickstarter system database but requires scraping from the platform. Scraping is performed monthly and stored in a flat file. In other words, the data source is stored in a different storage location. However, integrated data can streamline the data management process, making it easier and faster to access and analyze the data. To address this issue, the author proposes a Data Warehouse and Business Intelligence System as it provides a stable and centralized repository for a large amount of historical data. <p align="justify">
 
+## 🖥️ Dashboard  
+ 
+  <img src="https://github.com/esrahanamnrg/Kickstarter-Data-Mart-and-Dashboard-Group-03/commit/5714add529188661b20f48a52d32b07a6ec71089"  width="700">
+</p>
+  
+  
 ## 🔣 Scope
 
   
